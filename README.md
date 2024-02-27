@@ -1,4 +1,4 @@
-Oral Exam Exercises for Lycée Privée Sainte Geneviève
+📝 Oral Exam Exercises for Lycée Privée Sainte Geneviève
 This repository contains a curated set of exercises that were given during oral exams to train students from Lycée Privée Sainte Geneviève. These exercises are designed to cover material seen in class and are either sourced from various educational websites or created by me for a more tailored learning experience.
 
 📚 Contents
